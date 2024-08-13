@@ -18,19 +18,19 @@ function Projects() {
         />
         <ProjectCard
           src={freshBurger}
-          link="https://github.com/Ade-mir/company-landing-page-2"
+          link="https://github.com/ahmchowd27/Employee-Management-System-master"
           h3="Employee"
           p="Employee Management"
         />
         <ProjectCard
           src={hipsster}
-          link="https://github.com/Ade-mir/company-landing-page-2"
+          link="https://github.com/ahmchowd27/UI-UX-design"
           h3="GPT"
           p="Page For AI"
         />
         <ProjectCard
           src={fitLift}
-          link="https://github.com/Ade-mir/company-landing-page-2"
+          link="https://github.com/ahmchowd27/Email-generator"
           h3="Khai Khai"
           p="Indian Restaurent"
         />
